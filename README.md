@@ -1,2 +1,2 @@
 # spring-boot-starter-apikey-security
-Spring Boot Start for API Key security
+Spring Boot Starter for API Key security
